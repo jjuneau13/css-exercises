@@ -132,7 +132,6 @@ ul {
 
 .sidebar > div {
   display: grid;
-  grid: 1fr / 1fr;
   align-items: center;
 }
 
